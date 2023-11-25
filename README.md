@@ -4,7 +4,7 @@
 # Components:
   - Memento:
     The Memento class represents a state snapshot, capturing the text as a specific point in time.
-  - Originator
+  - Originator:
     The Originator class, acting as a text editor, manages the text and states.
     Provide methods to add text, retrieve the current text, save the state as a Memento, and restore the state from a Memento
   - Caretaker:
