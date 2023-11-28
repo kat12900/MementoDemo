@@ -1,6 +1,6 @@
 # MementoDemo
 # Overview:
-  This Jave program demonstrate the implementation of the Memento Design Pattern in the context of a continuos text input application with undo functionality. The Memento pattern allows user to input the text continuosly, save each state as Memento, and perform undo operations effectively.
+  This Java program demonstrate the implementation of the Memento Design Pattern in the context of a continuos text input application with undo functionality. The Memento pattern allows user to input the text continuosly, save each state as Memento, and perform undo operations effectively.
 # Components:
   - Memento:
     The Memento class represents a state snapshot, capturing the text as a specific point in time.
