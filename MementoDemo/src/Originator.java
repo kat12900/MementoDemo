@@ -9,7 +9,7 @@ class Originator {
     public void addText(String newText) {
         if (text.length() > 0) {
             // Add a space if there is existing text
-            text.append(". ");
+            text.append(" ");
         }
         text.append(newText);
     }
